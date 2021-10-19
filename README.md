@@ -1,4 +1,4 @@
-# Omega Assignment - Food Delivery
+# Food Delivery API
 
 ## About the application
 Application represents simulation of logged in user ordering food from a restaurant chain.
