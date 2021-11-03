@@ -1,4 +1,4 @@
-# Food Delivery API
+# Food Delivery REST API
 
 ## About the application
 Application represents simulation of logged in user ordering food from a restaurant chain.
